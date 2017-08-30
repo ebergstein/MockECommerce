@@ -29,11 +29,13 @@
 		</tbody>
 	</table>
 	<a href = '/checkout'>Checkout</a>
+	<!--
 	<form method = "POST" action = "/addproduct">
 		<label>Name: <input type = "text" name = "name"/></label>
     	<label>Description: <textarea name = "description"></textarea></label>
     	<label>Price: <input type = "text" name = "price"/></label>
     	<input type="submit" value="Create"/>
     </form>
+    -->
 </body>
 </html>
